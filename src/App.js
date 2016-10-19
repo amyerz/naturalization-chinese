@@ -21,15 +21,25 @@ class App extends Component {
         'Content-Type': 'application/json'
       },
     };
-    var myRequest = new Request('chinese_20.json', myInit);
+    var myRequest = new Request('chinese.json', myInit);
 
     fetch(myRequest).then(response => {
       return response.json();
     }).then(data => {
       const seniorQuestions = data.questions.filter(function(question){ return question.seniorExcemption === true});
-      console.log(seniorQuestions);
-      this.setState({ data: seniorQuestions });
+      this.setState({ data: this.shuffle(seniorQuestions) });
     });
+  }
+
+  shuffle(array) {
+    var m = array.length, t, i;
+    while (m) {
+      i = Math.floor(Math.random() * m--);
+      t = array[m];
+      array[m] = array[i];
+      array[i] = t;
+    }
+    return array;
   }
 
   showAnswer() {
@@ -47,8 +57,6 @@ class App extends Component {
   render() {
     const questionsArray = this.state.data;
     const currQuestion = questionsArray[this.state.index];
-    console.log(this.state.index, currQuestion);
-
     const answer = this.state.showAnswer?
       (
         <h2 className="answer">
