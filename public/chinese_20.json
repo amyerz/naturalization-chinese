@@ -1,0 +1,937 @@
+{
+  "language": "traditional chinese",
+  "state": "CA",
+  "questions": [
+    {
+      "id": 1,
+      "question": "美國的最高法律是什麼？",
+      "answer": ["憲法"],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "美國民主原則"
+    },
+    {
+      "id": 2,
+      "question": "憲法的作用是什麼？",
+      "answer": ["建立政府體制", "定義政府", "保護美國人的基本權利"],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "美國民主原則"
+    },
+    {
+      "id": 3,
+      "question": "憲法的前三個字說明自治的概念。這三個字是什麼",
+      "answer": ["我們人民"],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "美國民主原則"
+    },
+    {
+      "id": 4,
+      "question": "什麼是修正案？",
+      "answer": ["(憲法的）更正", "（憲法的）補充"],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "美國民主原則"
+    },
+    {
+      "id": 5,
+      "question": "憲法的前十項修正案稱為什麼？",
+      "answer": ["權利法案"],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "美國民主原則"
+    },
+    {
+      "id": 6,
+      "question": "列舉憲法第一條修正案中的一項權利或自由",
+      "answer": ["言論自由", "宗教自由", "集會結社的自由", "出版自由", "向政府請願的自由"],
+      "answerFormat": "all",
+      "seniorExcemption" : true,
+      "stateRelated": false,
+      "category": "美國民主原則"
+    },
+    {
+      "id": 7,
+      "question": "憲法有幾條修正案?",
+      "answer": ["二十七 (27)條"],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "美國民主原則"
+    },
+    {
+      "id": 8,
+      "question": "「獨立宣言」的作用是什麼?",
+      "answer": ["宣佈美國(脫離英國而)獨立", "宣告美國(脫離英國而)獨立", "表示美國(脫離英國而)獨立"],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "美國民主原則"
+    },
+    {
+      "id": 9,
+      "question": "列舉「獨立宣言」中的兩項權利 。",
+      "answer": ["生命(的權利)", "自由(的權利)", "追求幸福(的權利)"],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "美國民主原則"
+    },
+    {
+      "id": 10,
+      "question": "什麼是宗教自由?",
+      "answer": ["你可以信仰任何宗教,也可以不信仰任何宗教 。"],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "美國民主原則"
+    },
+    {
+      "id": 11,
+      "question": "美國的經濟制度是什麼?",
+      "answer": ["資本主義經濟", "市場經濟"],
+      "answerFormat": "all",
+      "seniorExcemption" : true,
+      "stateRelated": false,
+      "category": "美國民主原則"
+    },
+    {
+      "id": 12,
+      "question": "「法治」是什麼?",
+      "answer": ["人人都應遵守法律 。", "領導人必須遵守法律 ", "政府必須遵守法律 。", "沒有任何人在法律之上 。"],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "美國民主原則"
+    },
+    {
+      "id": 13,
+      "question": "列舉政府體制的一個分支或部門。",
+      "answer": ["國會", "立法部門", "總統", "行政部門", "法院", "司法部門"],
+      "answerFormat": "any",
+      "seniorExcemption" : true,
+      "stateRelated": false,
+      "category": "政治體制"
+    },
+    {
+      "id": 14,
+      "question": "什麼防止一個政府分支變得過於強大?",
+      "answer": ["制衡", "權力分立"],
+      "answerFormat": "any",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "政治體制"
+    },
+    {
+      "id": 15,
+      "question": "誰負責行政部門?",
+      "answer": ["總統"],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "政治體制"
+    },
+    {
+      "id": 16,
+      "question": "誰制定聯邦法律?",
+      "answer": ["國會", "參議院及眾議院", "(美國或國家)立法部門"],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "政治體制"
+    },
+    {
+      "id": 17,
+      "question": "美國國會由哪兩個部分組成?*",
+      "answer": ["參議院與眾議院"],
+      "answerFormat": "all",
+      "seniorExcemption" : true,
+      "stateRelated": false,
+      "category": "政治體制"
+    },
+    {
+      "id": 18,
+      "question": "美國參議員有幾位?",
+      "answer": ["一百(100)位"],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "政治體制"
+    },
+    {
+      "id": 19,
+      "question": "我們選出的美國參議員任職多少年?",
+      "answer": ["六 (6) 年"],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "政治體制"
+    },
+    {
+      "id": 20,
+      "question": "您所在州的現任一位美國參議員的名字是什麼?",
+      "answer": ["范士丹", "芭芭拉義和團"],
+      "answerFormat": "all",
+      "seniorExcemption" : true,
+      "stateRelated": true,
+      "category": "政治體制"
+    },
+    {
+      "id": 21,
+      "question": "眾議院中有投票權的眾議員有幾位?",
+      "answer": ["四百三十五 (435) 位"],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "政治體制"
+    },
+    {
+      "id": 22,
+      "question": "我們選出的美國眾議員任職多少年?",
+      "answer": ["兩(2)年"],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "政治體制"
+    },
+    {
+      "id": 23,
+      "question": "列舉您所在選區的美國眾議員的名字 。",
+      "answer": [""],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": true,
+      "category": "政治體制"
+    },
+    {
+      "id": 24,
+      "question": "美國參議員代表何人?",
+      "answer": ["其所在州的所有人民"],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "政治體制"
+    },
+    {
+      "id": 25,
+      "question": "為什麼有些州的眾議員人數比其他州多?",
+      "answer": ["(由於)該州的人口", "由於)該州有更多人口", "(由於)該州的人口比其他州多" ],
+      "answerFormat": "any",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "政治體制"
+    },
+    {
+      "id": 26,
+      "question": "我們選出的總統任職多少年?",
+      "answer": ["四(4)年" ],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "政治體制"
+    },
+    {
+      "id": 27,
+      "question": "我們在哪一個月選總統?",
+      "answer": "十一月",
+      "answerFormat": "all",
+      "seniorExcemption" : true,
+      "stateRelated": false,
+      "category": "政治體制"
+    },
+    {
+      "id": 28,
+      "question": "現任美國總統的名字是什麼?*",
+      "answer": ["Barack Obama", "Obama" ],
+      "answerFormat": "any",
+      "seniorExcemption" : true,
+      "stateRelated": false,
+      "category": "政治體制"
+    },
+    {
+      "id": 29,
+      "question": "現任美國副總統的名字是什麼?",
+      "answer": ["Joseph R. Biden, Jr.", "Joe Biden", "Biden" ],
+      "answerFormat": "any",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "政治體制"
+    },
+    {
+      "id": 30,
+      "question": "如果總統不能視事,則由誰成為總統?",
+      "answer": ["副總統" ],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "政治體制"
+    },
+    {
+      "id": 31,
+      "question": "如果總統和副總統都不能視事,則由誰成為總統?",
+      "answer": ["眾議院議長" ],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "政治體制"
+    },
+    {
+      "id": 31,
+      "question": "如果總統和副總統都不能視事,則由誰成為總統?",
+      "answer": ["眾議院議長" ],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "政治體制"
+    },
+    {
+      "id": 32,
+      "question": "誰是三軍統帥?",
+      "answer": ["總統" ],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "政治體制"
+    },
+    {
+      "id": 33,
+      "question": "誰簽署法案使之成為法律?",
+      "answer": ["總統" ],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "政治體制"
+    },
+    {
+      "id": 34,
+      "question": "誰否決法案?",
+      "answer": ["總統" ],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "政治體制"
+    },
+    {
+      "id": 35,
+      "question": "總統的內閣做什麼事?",
+      "answer": ["向總統提出建議" ],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "政治體制"
+    },
+    {
+      "id": 36,
+      "question": "兩個內閣級別的職位是什麼?",
+      "answer": ["農業部長", "商務部長", "國防部長",
+        "教育部長", "能源部長", "健康與人類服務部長",
+        "國土安全部長","住宅與都市發展部長",  "內政部長勞工部長",
+        "國務卿", "交通部長", "財政部長", "退伍軍人事務部長", "司法部長", "副總統"],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "政治體制"
+    },
+    {
+      "id": 37,
+      "question": "司法部門做什麼?",
+      "answer": ["審查法律", "解釋法律","解決爭議(意見不一致)", "決定某一法律是否牴觸憲法"],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "政治體制"
+    },
+    {
+      "id": 38,
+      "question": "美國最高法院是什麼?",
+      "answer": ["聯邦最高法院" ],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "政治體制"
+    },
+    {
+      "id": 39,
+      "question": "最高法院有幾位大法官?",
+      "answer": ["九(9)位" ],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "政治體制"
+    },
+    {
+      "id": 40,
+      "question": "現任聯邦首席大法官是誰?",
+      "answer": ["約翰 • 羅伯茲(小約翰 G. 羅伯茲)" ],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "政治體制"
+    },
+    {
+      "id": 41,
+      "question": "根據我國憲法,有些權力屬於聯邦政府 。聯邦政府的一項權力是什麼?",
+      "answer": ["印製鈔票", "宣戰", "創立軍隊", "簽訂條約" ],
+      "answerFormat": "any",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "政治體制"
+    },
+    {
+      "id": 42,
+      "question": "根據我國憲法,有些權力屬於州政府。州政府的一項權力是什麼?",
+      "answer": ["提供教育", "提供保護(警員)", "提供安全(消防局)", "提供駕駛執照", "批准區劃與土地使用" ],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "政治體制"
+    },
+    {
+      "id": 43,
+      "question": "您居住州的現任州長是誰?",
+      "answer": ["傑里·布朗"],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": true,
+      "category": "政治體制"
+    },
+    {
+      "id": 44,
+      "question": "您居住州的首府是哪裡?",
+      "answer": ["薩克拉門托"],
+      "answerFormat": "all",
+      "seniorExcemption" : true,
+      "stateRelated": true,
+      "category": "政治體制"
+    },
+    {
+      "id": 45,
+      "question": "美國當今兩大政黨為何?",
+      "answer": ["民主黨與共和黨"],
+      "answerFormat": "all",
+      "seniorExcemption" : true,
+      "stateRelated": false,
+      "category": "政治體制"
+    },
+    {
+      "id": 46,
+      "question": "現任總統屬於哪個政黨?",
+      "answer": ["民主黨"],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "政治體制"
+    },
+    {
+      "id": 47,
+      "question": "現任國會眾議院議長的名字是什麼?",
+      "answer": ["保羅· 戴維斯·萊恩", "(保羅) 萊恩"],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "政治體制"
+    },
+    {
+      "id": 48,
+      "question": "憲法中有四個關於誰可以投票的修正案 。試舉一個 。",
+      "answer": ["十八 (18) 歲以上的公民(可以投票)。", "您投票不必繳錢(繳投票稅)。",
+        "任何公民都可以投票(男性與女性都可以投票)。", "任何種族的男性公民(都可以投票)。"],
+      "answerFormat": "any",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": " 權利與責任"
+    },
+    {
+      "id": 49,
+      "question": "列舉一項美國公民才有的責任?",
+      "answer": ["當陪審員", "在聯邦選舉中投票"],
+      "answerFormat": "any",
+      "seniorExcemption" : true,
+      "stateRelated": false,
+      "category": " 權利與責任"
+    },
+    {
+      "id": 50,
+      "question": "列舉一項美國公民才享有的權利 。",
+      "answer": ["在聯邦選舉中投票的權利", "競選公職的權利"],
+      "answerFormat": "any two",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": " 權利與責任"
+    },
+    {
+      "id": 51,
+      "question": "每一個住在美國的人享有的兩項權利是什麼?",
+      "answer": ["表達自由", "言論自由", "集會結社的自由", "向政府請願的自由", "宗教自由", "持有武器的自由"],
+      "answerFormat": "any two",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": " 權利與責任"
+    },
+    {
+      "id": 52,
+      "question": "當我們宣誓效忠時,是向什麼表達忠誠?",
+      "answer": ["美利堅合眾國", "國旗"],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": " 權利與責任"
+    },
+    {
+      "id": 53,
+      "question": "當您成為美國公民時做出的一項承諾是什麼?",
+      "answer": ["放棄效忠其他國家", "護衛美國的憲法及法律", "遵守美國的法律",
+        "必要時)加入美國軍隊", "(必要時)為國效勞(為國做重要工作)", "效忠美國"],
+      "answerFormat": "any",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": " 權利與責任"
+    },
+    {
+      "id": 54,
+      "question": "美國公民必須幾歲才能投票選舉總統?",
+      "answer": ["十八 (18) 歲以上"],
+      "answerFormat": "all",
+      "seniorExcemption" : true,
+      "stateRelated": false,
+      "category": " 權利與責任"
+    },
+    {
+      "id": 55,
+      "question": "美國人參與民主政治的兩種方法是什麼?",
+      "answer": ["投票", "加入政黨", "協助競選活動", "加入公民團體",
+        "加入社區團體", "向民選官員提供自己對某項議題的意見", "撥電給參議員和眾議員",
+        "公開支持或反對某個議題或政策", "競選公職", "向報社投函"],
+      "answerFormat": "any two",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": " 權利與責任"
+    },
+    {
+      "id": 56,
+      "question": "寄送聯邦所得稅表的截止日期是哪一天?",
+      "answer": ["(每年的)4月15日"],
+      "answerFormat": "all",
+      "seniorExcemption" : true,
+      "stateRelated": false,
+      "category": " 權利與責任"
+    },
+    {
+      "id": 57,
+      "question": "所有男性到了哪個年齡必須註冊「兵役登記」?",
+      "answer": ["十八(18)歲", "十八 (18) 歲至二十六 (26) 歲之間"],
+      "answerFormat": "any",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": " 權利與責任"
+    },
+    {
+      "id": 58,
+      "question": "殖民者當初到美國的一項理由是什麼?",
+      "answer": ["自由", "政治自由", "宗教自由", "經濟機會", "從事宗教活動", "逃避迫害"],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "殖民期與獨立"
+    },
+    {
+      "id": 59,
+      "question": "歐洲人抵達美國之前,誰已經居住在美國?",
+      "answer": ["美國印地安人", "美國原住民"],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "殖民期與獨立"
+    },
+    {
+      "id": 60,
+      "question": "哪一群人被帶到美國並被販賣為奴?",
+      "answer": ["非洲人", "來自非洲的人"],
+      "answerFormat": "any",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "殖民期與獨立"
+    },
+    {
+      "id": 61,
+      "question": "殖民者為何與英國作戰?",
+      "answer": ["因為高額捐稅(只繳稅,沒有代表權)", "因為英國軍隊住在他們的住宅內(寄宿、宿營)", "因為他們沒有自治權"],
+      "answerFormat": "any",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "殖民期與獨立"
+    },
+    {
+      "id": 62,
+      "question": "「獨立宣言」是誰寫的?",
+      "answer": ["(湯瑪士)傑佛遜"],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "殖民期與獨立"
+    },
+    {
+      "id": 63,
+      "question": "「獨立宣言」是何時通過採用的?",
+      "answer": ["1776年7月4日"],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "殖民期與獨立"
+    },
+    {
+      "id": 64,
+      "question": "「美國原先有 13 個州 。請列舉其中三個州 ",
+      "answer": ["新罕布夏", "麻薩諸塞", "羅德島", "康乃狄克", "紐約",
+        "紐澤西", "賓夕法尼亞", "德拉瓦", "馬裏蘭", "維吉尼亞", "北卡羅萊納", "南卡羅萊納", "喬治亞"],
+      "answerFormat": "any three",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "殖民期與獨立"
+    },
+    {
+      "id": 65,
+      "question": "制憲會議達成了什麼事?",
+      "answer": ["擬定憲法 。", "開國諸賢擬定了憲法 。" ],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "殖民期與獨立"
+    },
+    {
+      "id": 66,
+      "question": "憲法是何時擬定的?",
+      "answer": ["1787年" ],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "殖民期與獨立"
+    },
+    {
+      "id": 67,
+      "question": "《聯邦論》支持美國憲法的通過 。請列舉一名《聯邦論》的作者 。",
+      "answer": ["(詹姆士)麥迪森", "(亞歷山大)漢米爾頓", "(約翰)傑伊", "普布利烏斯" ],
+      "answerFormat": "any",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "殖民期與獨立"
+    },
+    {
+      "id": 68,
+      "question": "班哲明 • 富蘭克林著稱的一項事蹟是什麼?",
+      "answer": ["美國外交官", "制憲會議年紀最長的成員", "美國第一任郵政總局局長",
+        "《窮人理查年鑑》的作者", "開辦第一個免費圖書館" ],
+      "answerFormat": "any",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "殖民期與獨立"
+    },
+    {
+      "id": 69,
+      "question": "誰是「美國國父」?",
+      "answer": ["(喬治)華盛頓" ],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "殖民期與獨立"
+    },
+    {
+      "id": 70,
+      "question": "誰是第一任總統?",
+      "answer": ["(喬治)華盛頓" ],
+      "answerFormat": "all",
+      "seniorExcemption" : true,
+      "stateRelated": false,
+      "category": "殖民期與獨立"
+    },
+    {
+      "id": 71,
+      "question": "美國在 1803 年向法國購買哪塊領地?",
+      "answer": ["(路易士安納領地", "路易士安納" ],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "1800 年代"
+    },
+    {
+      "id": 72,
+      "question": "列舉一場美國在 1800 年代參與的戰爭 。",
+      "answer": ["1812年戰爭", "美墨戰爭" , "內戰", "美國與西班牙戰爭"],
+      "answerFormat": "any",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "1800 年代"
+    },
+    {
+      "id": 73,
+      "question": "請說出美國南方與北方之間戰爭的名稱 。",
+      "answer": ["內戰", "州際戰爭"],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "1800 年代"
+    },
+    {
+      "id": 74,
+      "question": "列舉一項導致內戰的問題 。",
+      "answer": ["奴隸制度", "經濟原因", "各州的權利"],
+      "answerFormat": "any",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "1800 年代"
+    },
+    {
+      "id": 75,
+      "question": "亞伯拉罕 • 林肯的一項重要事蹟是什麼?*",
+      "answer": ["解放奴隸(《解放宣言》)", "拯救(保留)聯盟", "在內戰期間引領美國"],
+      "answerFormat": "any",
+      "seniorExcemption" : true,
+      "stateRelated": false,
+      "category": "1800 年代"
+    },
+    {
+      "id": 76,
+      "question": "《解放宣言》達成了什麼?",
+      "answer": ["解放了奴隸", "解放了聯邦制下的奴隸", "解放了聯邦各州的奴隸", "解放了南方大部分州的奴隸"],
+      "answerFormat": "any",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "1800 年代"
+    },
+    {
+      "id": 76,
+      "question": "《解放宣言》達成了什麼?",
+      "answer": ["解放了奴隸", "解放了聯邦制下的奴隸", "解放了聯邦各州的奴隸", "解放了南方大部分州的奴隸"],
+      "answerFormat": "any",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "1800 年代"
+    },
+    {
+      "id": 77,
+      "question": "蘇珊 B. 安東尼的事蹟是什麼?",
+      "answer": ["為女權奮鬥", "為民權奮鬥"],
+      "answerFormat": "any",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "1800 年代"
+    },
+    {
+      "id": 78,
+      "question": "列舉一場美國在1900年代參與的戰爭",
+      "answer": ["第一次世界大戰", "第二次世界大戰", "朝鮮戰爭", "越戰", "(波斯灣)海灣戰爭"],
+      "answerFormat": "any",
+      "seniorExcemption" : true,
+      "stateRelated": false,
+      "category": "美國近代史與其他重要的歷史資料"
+    },
+    {
+      "id": 79,
+      "question": "第一次世界大戰期間的美國總統是誰?",
+      "answer": ["(伍德羅)威爾遜"],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "美國近代史與其他重要的歷史資料"
+    },
+    {
+      "id": 80,
+      "question": "美國經濟大蕭條和第二次世界大戰期間的總統是誰?",
+      "answer": ["(富蘭克林)羅斯福"],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "美國近代史與其他重要的歷史資料"
+    },
+    {
+      "id": 81,
+      "question": "美國在第二次世界大戰與哪些國家作戰?",
+      "answer": ["日本、德國、義大利"],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "美國近代史與其他重要的歷史資料"
+    },
+    {
+      "id": 82,
+      "question": "艾森豪在當總統以前是將軍 。他曾參加哪一場戰爭?",
+      "answer": ["第二次世界大戰"],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "美國近代史與其他重要的歷史資料"
+    },
+    {
+      "id": 83,
+      "question": "在冷戰期間,美國的主要顧慮是什麼?",
+      "answer": ["共產主義"],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "美國近代史與其他重要的歷史資料"
+    },
+    {
+      "id": 84,
+      "question": "哪項運動試圖結束種族歧視?",
+      "answer": ["民權(運動)"],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "美國近代史與其他重要的歷史資料"
+    },
+    {
+      "id": 85,
+      "question": "小馬丁• 路德 • 金的事蹟是什麼?",
+      "answer": ["為民權奮鬥", "為所有美國人爭取平等"],
+      "answerFormat": "all",
+      "seniorExcemption" : true,
+      "stateRelated": false,
+      "category": "美國近代史與其他重要的歷史資料"
+    },
+    {
+      "id": 86,
+      "question": "美國在2001年9月11日發生了什麼重大事件?",
+      "answer": ["恐怖份子攻擊美國 。"],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "美國近代史與其他重要的歷史資料"
+    },
+    {
+      "id": 87,
+      "question": "列舉一個美國印地安人部族 。[USCIS主考官將有聯邦承認的美國印地安人部族清單 。]",
+      "answer": ["切洛基", "納瓦荷", "蘇", "齊普瓦", "喬克陶", "布耶布洛",
+        "阿帕契", "伊洛奎斯", "庫瑞克", "佈雷克非特", "賽米諾利", "夏安阿拉", "瓦克",
+        "蕭尼", "莫希根", "休倫", "歐尼達", "拉科塔", "克洛", "泰頓", "賀皮", "伊努特"],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "美國近代史與其他重要的歷史資料"
+    },
+    {
+      "id": 88,
+      "question": "列舉美國最長的兩條河中的一條 。",
+      "answer": ["密蘇裏(河)", "密西西比(河)"],
+      "answerFormat": "any",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "地理"
+    },
+    {
+      "id": 89,
+      "question": "美國西岸瀕臨什麼海洋?。",
+      "answer": ["太平洋"],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "地理"
+    },
+    {
+      "id": 90,
+      "question": "美國東岸瀕臨什麼海洋?",
+      "answer": ["大西洋"],
+      "answerFormat": "all",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "地理"
+    },
+    {
+      "id": 91,
+      "question": "列舉一個美國領地 。",
+      "answer": ["波多黎各", "美屬維京群島", "美屬薩摩亞", "北馬裏亞納群島", "關島"],
+      "answerFormat": "any",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "地理"
+    },
+    {
+      "id": 92,
+      "question": "列舉一個與加拿大毗連的州 。",
+      "answer": ["緬因", "新罕布夏", "佛蒙特", "紐約", "賓夕法尼亞", "俄亥俄",
+        "密西根", "明尼蘇達", "北達科他" , "蒙大拿", "愛達荷", "華盛頓", "阿拉斯加"],
+      "answerFormat": "any",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "地理"
+    },
+    {
+      "id": 93,
+      "question": "列舉一個與墨西哥毗連的州 。",
+      "answer": ["加利福尼亞", "亞利桑那", "新墨西哥", "德克薩斯"],
+      "answerFormat": "any",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "地理"
+    },
+    {
+      "id": 94,
+      "question": "美國的首都在哪裡?",
+      "answer": ["華盛頓哥倫比亞特區"],
+      "answerFormat": "any",
+      "seniorExcemption" : true,
+      "stateRelated": false,
+      "category": "地理"
+    },
+    {
+      "id": 95,
+      "question": "自由女神像在哪裡?*",
+      "answer": ["紐約(港)", "自由島[回答紐澤西、紐約市附近、哈德遜河上也可以接受]"],
+      "answerFormat": "any",
+      "seniorExcemption" : true,
+      "stateRelated": false,
+      "category": "地理"
+    },
+    {
+      "id": 96,
+      "question": "國旗上為什麼有十三個條紋?",
+      "answer": ["因為當初有十三個殖民地", "因為條紋代表當初的殖民地"],
+      "answerFormat": "any",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "標誌"
+    },
+    {
+      "id": 97,
+      "question": "國旗上為什麼有五十顆星星?",
+      "answer": ["因為一個州有一顆星", "因為一顆星代表一個州", "因為有五十個州"],
+      "answerFormat": "any",
+      "seniorExcemption" : true,
+      "stateRelated": false,
+      "category": "標誌"
+    },
+    {
+      "id": 98,
+      "question": "美國國歌的名稱是什麼?",
+      "answer": ["星條旗之歌"],
+      "answerFormat": "any",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "標誌"
+    },
+    {
+      "id": 99,
+      "question": "我們在哪一天慶祝獨立紀念日?",
+      "answer": ["7月4日"],
+      "answerFormat": "any",
+      "seniorExcemption" : true,
+      "stateRelated": false,
+      "category": "國定假日"
+    },
+    {
+      "id": 100,
+      "question": "列舉兩個美國的國定假日 。",
+      "answer": ["新年", "馬丁路德金的生日", "總統日", "國殤日",
+        "美國國慶日", "勞動節", "哥倫布日", "退伍軍人節", "感恩節", "聖誕節"],
+      "answerFormat": "any two",
+      "seniorExcemption" : false,
+      "stateRelated": false,
+      "category": "國定假日"
+    }
+  ]
+}
