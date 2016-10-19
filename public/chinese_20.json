@@ -239,7 +239,7 @@
     {
       "id": 27,
       "question": "我們在哪一個月選總統?",
-      "answer": "十一月",
+      "answer": ["十一月"],
       "answerFormat": "all",
       "seniorExcemption" : true,
       "stateRelated": false,
