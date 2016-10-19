@@ -1,5 +1,12 @@
+USCIS Citizenship Test - Chinese Senior 20 Excemption Test
+Civic Questions from (California only, based on 10/18/16)
+https://www.uscis.gov/citizenship/other-languages/chinese-resources
 ![ScreenShot](https://cloud.githubusercontent.com/assets/4411687/19507138/baceb1f8-9585-11e6-9676-a3922ab31881.png)
 ![ScreenShot](https://cloud.githubusercontent.com/assets/4411687/19507141/bfc8d896-9585-11e6-8910-5b9897eb2b67.png)
+
+Design style guide based on Draft U.S. Web Design Standards
+https://standards.usa.gov/
+
 
 Below you will find some information on how to perform common tasks.
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
