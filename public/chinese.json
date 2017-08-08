@@ -248,7 +248,7 @@
     {
       "id": 28,
       "question": "現任美國總統的名字是什麼?*",
-      "answer": ["Barack Obama", "Obama" ],
+      "answer": ["Trump", "Donald Trump", "唐納·川普"],
       "answerFormat": "any",
       "seniorExcemption" : true,
       "stateRelated": false,
